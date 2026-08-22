@@ -1,0 +1,6 @@
+@AISQLQueryGenerator.API_HostAddress = http://localhost:5168
+
+GET {{AISQLQueryGenerator.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
